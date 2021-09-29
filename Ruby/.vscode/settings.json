@@ -1,0 +1,13 @@
+{
+    "ruby.useBundler": true,
+    "ruby.lint": {
+        "rubocop": {
+            "useBundler": true
+        }
+    },
+    "ruby.format": "rubocop",
+    "solargraph.useBundler": true,
+    "solargraph.references": true,
+    "solargraph.autoformat": true,
+    "solargraph.formatting": true
+}
