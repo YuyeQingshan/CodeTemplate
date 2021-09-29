@@ -1,12 +1,12 @@
 {
-    "ruby.useBundler": true,
+    "ruby.useBundler": false,
     "ruby.lint": {
         "rubocop": {
-            "useBundler": true
+            "useBundler": false
         }
     },
     "ruby.format": "rubocop",
-    "solargraph.useBundler": true,
+    "solargraph.useBundler": false,
     "solargraph.references": true,
     "solargraph.autoformat": true,
     "solargraph.formatting": true
